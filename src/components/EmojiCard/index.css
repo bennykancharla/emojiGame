@@ -1,0 +1,21 @@
+/* Write your code here. */
+
+.image {
+  width: 150px;
+}
+
+@media screen and (max-width: 768px) {
+  .image {
+    width: 90px;
+  }
+}
+
+.emoji-btn {
+  background-color: #ffffff33;
+  border: 1px solid #ffffff33;
+  border-radius: 10px;
+  margin: 5px;
+  border: 0px;
+  border-radius: 8px;
+  padding: 8px;
+}
